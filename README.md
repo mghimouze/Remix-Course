@@ -21,8 +21,8 @@
 ## Prerequisites
 
 - Some
-  [experience with JavaScript](https://kentcdodds.com/blog/javascript-to-know-for-react)
-- Some [experience with React](https://kcd.im/beginner-react)
+  [experience with JavaScript]
+- Some [experience with React]
 - Some [experience with Node.js](https://nodejs.dev/learn)
 
 ## System Requirements
