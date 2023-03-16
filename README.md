@@ -135,13 +135,6 @@ doing, so we limit the diff to only the `app` directory (where almost all of
 your code changes happen). You'll need to ignore any changes to
 `styles/tailwind.css` however. That's a generated file. Sorry about that.
 
-## Workshop Feedback
-
-Each exercise has an Elaboration and Feedback link. Please fill that out after
-the exercise and instruction.
-
-At the end of the workshop, please go to this URL to give overall feedback.
-Thank you! https://kcd.im/rmx-workshop-ws-feedback
 
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com/
