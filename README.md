@@ -1,12 +1,11 @@
 <div>
-  <h1 align="center"><a href="https://frontendmasters.com/courses/remix/">💿 Remix Fundamentals</a></h1>
+  <h1 align="center"><a href="[https://remix.run]">💿 Remix </a></h1>
   <strong>
     Build Better websites with Remix
   </strong>
   <p>
     Remix enables you to build fantastic user experiences for the web and feel
-    happy with the code that got you there. Get a jumpstart on Remix with this
-    workshop.
+    happy with the code that got you there. 
   </p>
 </div>
 
@@ -49,7 +48,7 @@ variable and how to fix it here for [windows][win-path] or
 Follow these steps to get this set up:
 
 ```sh
-git clone https://github.com/FrontendMasters/remix-fundamentals.git
+git clone https://github.com/mghimouze/Remix-Course
 cd remix-fundamentals
 npm run setup
 ```
@@ -140,13 +139,13 @@ your code changes happen). You'll need to ignore any changes to
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/
-[build-badge]: https://img.shields.io/github/workflow/status/FrontendMasters/remix-fundamentals/%E2%9C%85%20Validate/main?logo=github&style=flat-square
-[build]: https://github.com/FrontendMasters/remix-fundamentals/actions?query=workflow%3Avalidate
+
+
 [license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/FrontendMasters/remix-fundamentals/blob/main/LICENSE
+
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://kentcdodds.com/conduct
+
 [win-path]: https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/
 [mac-path]: http://stackoverflow.com/a/24322978/971592
-[issue]: https://github.com/FrontendMasters/remix-fundamentals/issues/new
+
 <!-- prettier-ignore-end -->
